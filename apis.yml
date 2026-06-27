@@ -19,7 +19,7 @@ common:
     url: https://www.extraspace.com
   - type: Locations
     url: https://www.extraspace.com/storage/facilities/
-  - type: CustomerService
+  - type: Support
     url: https://www.extraspace.com/customer-service/
   - type: Blog
     url: https://www.extraspace.com/blog/
