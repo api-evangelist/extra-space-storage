@@ -2,6 +2,17 @@ aid: extra-space-storage
 url: https://github.com/api-evangelist/extra-space-storage
 name: Extra Space Storage
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.extraspace.com/favicon.ico
 tags:
   - Self Storage
