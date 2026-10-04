@@ -27,7 +27,7 @@ accessModel:
 image: https://www.extraspace.com/favicon.ico
 tags:
   - Self Storage
-  - Real-Estate
+  - Real Estate
   - REIT
   - Storage
 tags_raw:
@@ -35,6 +35,7 @@ tags_raw:
   - Real Estate
   - REIT
   - Storage
+  - Real-Estate
 description: Extra Space Storage Inc. is a fully integrated, self-administered and self-managed real estate investment trust (REIT) and one of the largest operators of self-storage properties in the United States. The company owns, operates, and manages thousands of self-storage facilities across the country, offering storage units, vehicle storage, and business storage solutions. Extra Space Storage does not currently publish a public developer API or documentation portal.
 created: '2026-05-04'
 modified: '2026-05-04'
